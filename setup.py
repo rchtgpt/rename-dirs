@@ -8,7 +8,9 @@ setuptools.setup(
     version="0.0.1",
     author="Rachit Gupta",
     author_email="guptarachit2004@gmail.com",
-    description="A simple script to rename multiple directories.",
+    description="A python script to rename multiple directories to lowercase words with underscore separators.",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/rchtgpt/rename-dirs",
     packages=setuptools.find_packages(),
     classifiers=[
