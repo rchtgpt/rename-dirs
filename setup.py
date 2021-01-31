@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="rename-dirs",
-    version="1.1.0",
+    version="1.2.0",
     author="Rachit Gupta",
     author_email="guptarachit2004@gmail.com",
     description="A python script to rename multiple directories to lowercase words with underscore separators.",

@@ -20,4 +20,4 @@ def main():
             else:
                 continue
 
-    print("Aight, I'm done!")
+    print("\nAight, I'm done!")
