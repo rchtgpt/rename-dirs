@@ -21,6 +21,8 @@ for i in files:
             continue
         counter += 1
 
+print("Aight, I'm done!")
+
 """
 # sample input: /Users/rachitgupta/Documents
 """
