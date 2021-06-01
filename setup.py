@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="rename-dirs",
-    version="1.2.0",
+    version="2.0.0",
     author="Rachit Gupta",
     author_email="guptarachit2004@gmail.com",
-    description="A python script to rename multiple directories to lowercase words with underscore separators.",
+    description="A python script to rename multiple directories in a uniform format.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/rchtgpt/rename-dirs",

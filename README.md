@@ -1,14 +1,26 @@
 # Rename Dirs
 
-A python script to rename multiple directories to lowercase words with underscore separators.
+A python script to rename multiple directories in a uniform format.
 
 ## Why?
 
-I like to keep my PC's folder structure neat and uniform but, during intense hackathons, i mess up my project's folder name format. Automating the renaming process made my life a little easier.
+I like to keep my PC's folder structure neat and uniform but, during intense hackathons, i mess up my project's folder name format. And so, automating the renaming process made my life a little easier.
 
-## Format
+## Format Options
 
-`Example File.txt` -> `example_file.txt`
+* `Example File.txt`
+
+* `Example-File.txt`
+
+* `Example-file.txt`
+
+* `Example_File.txt`
+
+* `example file.txt`
+
+* `example-file.txt`
+
+* `example_file.txt`
 
 ## Installation
 
@@ -20,13 +32,16 @@ pip install rename-dirs
 
 * After installing, run `rename-dirs`
 * Enter directory path:
-<img width="669" alt="dir_path" src="https://media.discordapp.net/attachments/650996852623409152/805400604532408360/unknown.png">
+<img width="706" alt="screenshot_enter_dir_path" src="https://user-images.githubusercontent.com/44428198/120315775-53e41080-c2fa-11eb-8bdb-fbcfc813485f.png">
+
+* Choose file name format:
+<img width="706" alt="screenshot_file_name_format" src="https://user-images.githubusercontent.com/44428198/120316283-e08ece80-c2fa-11eb-8a7a-42976e163db7.png">
 
 * Enter Y/n for each file/folder:
-<img width="718" alt="yes_or_no" src="https://media.discordapp.net/attachments/650996852623409152/805401321288499200/unknown.png">
+<img width="762" alt="screenshot_yes_no_file" src="https://user-images.githubusercontent.com/44428198/120315094-9822e100-c2f9-11eb-9472-008185b6606a.png">
 
 * Initial folder structure:
-<img width="669" alt="inital_structure" src="https://media.discordapp.net/attachments/650996852623409152/805400017359077426/unknown.png">
+<img width="741" alt="screenshot_initial_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315073-93f6c380-c2f9-11eb-8c60-f81ba8567632.png">
 
 * Final folder structure:
-<img width="669" alt="final_structure" src="https://media.discordapp.net/attachments/650996852623409152/805401340649799691/unknown.png">
+<img width="785" alt="screenshot_final_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315101-99eca480-c2f9-11eb-9146-cb496141d7bd.png">
