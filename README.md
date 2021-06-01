@@ -41,7 +41,7 @@ pip install rename-dirs
 <img width="762" alt="screenshot_yes_no_file" src="https://user-images.githubusercontent.com/44428198/120315094-9822e100-c2f9-11eb-9472-008185b6606a.png">
 
 * Initial folder structure:
-<img width="741" alt="screenshot_initial_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315073-93f6c380-c2f9-11eb-8c60-f81ba8567632.png">
+<img width="785" alt="screenshot_final_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315101-99eca480-c2f9-11eb-9146-cb496141d7bd.png">
 
 * Final folder structure:
-<img width="785" alt="screenshot_final_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315101-99eca480-c2f9-11eb-9146-cb496141d7bd.png">
+<img width="741" alt="screenshot_initial_folder_structure" src="https://user-images.githubusercontent.com/44428198/120315073-93f6c380-c2f9-11eb-8c60-f81ba8567632.png">
